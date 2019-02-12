@@ -6,12 +6,14 @@
 <br>
 pkg install pip
 <br>
-pkg install requests
+pip install requests
 <br>
 pkg install git
 <br>
 pkg install python
 <br>
 git clone https://github.com/kumpul4semut/yuksholat.git
+<br>
+cd yuksholat
 <br>
 python yuksholat.py
