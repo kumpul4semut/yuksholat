@@ -17,3 +17,6 @@ git clone https://github.com/kumpul4semut/yuksholat.git
 cd yuksholat
 <br>
 python yuksholat.py
+<br>
+
+![alt text](https://raw.githubusercontent.com/kumpul4semut/yuksholat/master/yuksholat.jpg)
